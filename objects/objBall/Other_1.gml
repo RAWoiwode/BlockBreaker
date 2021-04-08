@@ -19,6 +19,6 @@ if (bbox_bottom > room_height) {
 		if (global.playerScore > global.highScore) global.highScore = global.playerScore;
 	} else {
 		// Destroy ball and set it back on paddle
-		instance_create_layer(xstart, ystart, "Instances", objBall);
+		instance_create_layer(objPaddle.x, objPaddle.y, "Instances", objBall);
 	}
 }

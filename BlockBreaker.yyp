@@ -1,9 +1,10 @@
 {
   "resources": [
     {"id":{"name":"sprBrick","path":"sprites/sprBrick/sprBrick.yy",},"order":0,},
-    {"id":{"name":"objBrick","path":"objects/objBrick/objBrick.yy",},"order":0,},
+    {"id":{"name":"objBrick1","path":"objects/objBrick1/objBrick1.yy",},"order":0,},
     {"id":{"name":"sprPaddle","path":"sprites/sprPaddle/sprPaddle.yy",},"order":2,},
     {"id":{"name":"sprPowers","path":"sprites/sprPowers/sprPowers.yy",},"order":3,},
+    {"id":{"name":"objBrick2","path":"objects/objBrick2/objBrick2.yy",},"order":5,},
     {"id":{"name":"sndPaddleHit","path":"sounds/sndPaddleHit/sndPaddleHit.yy",},"order":1,},
     {"id":{"name":"objControl","path":"objects/objControl/objControl.yy",},"order":3,},
     {"id":{"name":"objBall","path":"objects/objBall/objBall.yy",},"order":1,},
